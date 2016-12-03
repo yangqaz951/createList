@@ -30,6 +30,10 @@ var projectData = {
             'type':'dir'
         },
         {
+            'name':'app.js',
+            'type':'file'
+        },
+        {
             'name':'inedx.html',
             'type':'file',
             'content' : '<html>\n\t<head>\n\t\t<title>node</title>\n\t</head>\n\t<body>\n\t\t<h1>hello node.</h1>\n\t</body>\n</html>'
